@@ -1,4 +1,4 @@
-# Strong-password-generator
-Strong password generator with python
+# Password-generator
+Python assword generator
 
-ایجاد پسورد قوی با پایتون
+ایجاد پسورد با پایتون
